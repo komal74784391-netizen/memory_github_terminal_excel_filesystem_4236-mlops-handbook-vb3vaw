@@ -1,0 +1,192 @@
+{
+  "edition": "2027-Q1",
+  "track": "Machine Learning Operations",
+  "artifacts": [
+    {
+      "path": "library/active/Aiko-Matsuda_MLOps_Canary-Release-Checklist-3.yaml",
+      "contributor": "Aiko-Matsuda",
+      "artifact": "Canary-Release-Checklist-3",
+      "format": "config"
+    },
+    {
+      "path": "library/active/Aiko-Matsuda_MachineLearningOperations_Canary-Release-Checklist.py",
+      "contributor": "Aiko-Matsuda",
+      "artifact": "Canary-Release-Checklist",
+      "format": "code"
+    },
+    {
+      "path": "library/active/Andres-Molina_MLOps_Shadow-Scoring-Setup.yaml",
+      "contributor": "Andres-Molina",
+      "artifact": "Shadow-Scoring-Setup",
+      "format": "config"
+    },
+    {
+      "path": "library/active/Anika-Sharma_MachineLearningOperations_Model-Rollback-Runbook.ipynb",
+      "contributor": "Anika-Sharma",
+      "artifact": "Model-Rollback-Runbook",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Bruno-Almeida_MachineLearningOperations_Canary-Release-Checklist-2.yaml",
+      "contributor": "Bruno-Almeida",
+      "artifact": "Canary-Release-Checklist-2",
+      "format": "config"
+    },
+    {
+      "path": "library/active/Camila-Rojas_MLOps_Feature-Store-Audit-2.md",
+      "contributor": "Camila-Rojas",
+      "artifact": "Feature-Store-Audit-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Chidi-Okafor_MLOps_Retraining-Cadence-Plan-3.ipynb",
+      "contributor": "Chidi-Okafor",
+      "artifact": "Retraining-Cadence-Plan-3",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Chidi-Okafor_MachineLearningOperations_Retraining-Cadence-Plan.md",
+      "contributor": "Chidi-Okafor",
+      "artifact": "Retraining-Cadence-Plan",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Diego-Salazar_MLOps_Shadow-Scoring-Setup-2.md",
+      "contributor": "Diego-Salazar",
+      "artifact": "Shadow-Scoring-Setup-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Elif-Demir_MLOps_Feature-Store-Audit.ipynb",
+      "contributor": "Elif-Demir",
+      "artifact": "Feature-Store-Audit",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Elif-Demir_MachineLearningOperations_Shadow-Scoring-Setup-2.md",
+      "contributor": "Elif-Demir",
+      "artifact": "Shadow-Scoring-Setup-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Hana-Novak_MLOps_Canary-Release-Checklist.py",
+      "contributor": "Hana-Novak",
+      "artifact": "Canary-Release-Checklist",
+      "format": "code"
+    },
+    {
+      "path": "library/active/Henrik-Dahl_MLOps_Retraining-Cadence-Plan.md",
+      "contributor": "Henrik-Dahl",
+      "artifact": "Retraining-Cadence-Plan",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Ingrid-Halvorsen_MLOps_Inference-Latency-Budget.md",
+      "contributor": "Ingrid-Halvorsen",
+      "artifact": "Inference-Latency-Budget",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Jonas-Weber_MLOps_Inference-Latency-Budget-2.md",
+      "contributor": "Jonas-Weber",
+      "artifact": "Inference-Latency-Budget-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Kwame-Mensah_MLOps_Model-Registry-Notes-3.ipynb",
+      "contributor": "Kwame-Mensah",
+      "artifact": "Model-Registry-Notes-3",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Leila-Ahmadi_MLOps_Shadow-Scoring-Setup-3.md",
+      "contributor": "Leila-Ahmadi",
+      "artifact": "Shadow-Scoring-Setup-3",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Leila-Ahmadi_MachineLearningOperations_Shadow-Scoring-Setup.yaml",
+      "contributor": "Leila-Ahmadi",
+      "artifact": "Shadow-Scoring-Setup",
+      "format": "config"
+    },
+    {
+      "path": "library/active/Lucia-Ferreira_MLOps_Feature-Store-Audit-3.md",
+      "contributor": "Lucia-Ferreira",
+      "artifact": "Feature-Store-Audit-3",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Lucia-Ferreira_MachineLearningOperations_Feature-Store-Audit.ipynb",
+      "contributor": "Lucia-Ferreira",
+      "artifact": "Feature-Store-Audit",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Marcus-Lindqvist_MLOps_Model-Registry-Notes.md",
+      "contributor": "Marcus-Lindqvist",
+      "artifact": "Model-Registry-Notes",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Mateo-Guzman_MLOps_Model-Registry-Notes-2.ipynb",
+      "contributor": "Mateo-Guzman",
+      "artifact": "Model-Registry-Notes-2",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Mei-Lin-Chen_MachineLearningOperations_Drift-Alert-Tuning-2.md",
+      "contributor": "Mei-Lin-Chen",
+      "artifact": "Drift-Alert-Tuning-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Noor-Haddad_MLOps_Canary-Release-Checklist-2.yaml",
+      "contributor": "Noor-Haddad",
+      "artifact": "Canary-Release-Checklist-2",
+      "format": "config"
+    },
+    {
+      "path": "library/active/Omar-Farooq_MLOps_Retraining-Cadence-Plan-2.ipynb",
+      "contributor": "Omar-Farooq",
+      "artifact": "Retraining-Cadence-Plan-2",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Petra-Kovac_MachineLearningOperations_Model-Rollback-Runbook-2.md",
+      "contributor": "Petra-Kovac",
+      "artifact": "Model-Rollback-Runbook-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Priya-Ramanathan_MLOps_Feature-Store-Audit-4.md",
+      "contributor": "Priya-Ramanathan",
+      "artifact": "Feature-Store-Audit-4",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Priya-Ramanathan_MachineLearningOperations_Feature-Store-Audit-2.md",
+      "contributor": "Priya-Ramanathan",
+      "artifact": "Feature-Store-Audit-2",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Ravi-Krishnan_MLOps_Inference-Latency-Budget-3.md",
+      "contributor": "Ravi-Krishnan",
+      "artifact": "Inference-Latency-Budget-3",
+      "format": "doc"
+    },
+    {
+      "path": "library/active/Sofia-Petrova_MachineLearningOperations_Retraining-Cadence-Plan-2.ipynb",
+      "contributor": "Sofia-Petrova",
+      "artifact": "Retraining-Cadence-Plan-2",
+      "format": "notebook"
+    },
+    {
+      "path": "library/active/Zara-Ibrahim_MachineLearningOperations_Drift-Alert-Tuning.md",
+      "contributor": "Zara-Ibrahim",
+      "artifact": "Drift-Alert-Tuning",
+      "format": "doc"
+    }
+  ]
+}
